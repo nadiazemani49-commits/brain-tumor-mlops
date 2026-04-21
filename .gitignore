@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pth
+*.pkl
+mlruns/
+.env
+*.egg-info/
+dist/
+.ipynb_checkpoints/
